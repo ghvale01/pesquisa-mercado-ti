@@ -13,7 +13,7 @@ O objetivo da pesquisa foi identificar:
 ## 📑 Relatório Completo
 📥 Acesse o relatório completo em PDF clicando no link abaixo:  
 
-👉 [[Relatório de Pesquisa de Mercado em TI](https://github.com/ghvale01/pesquisa-mercado-ti/blob/main/Relatorio%20de%20Pesquisa%20de%20Mercado.pdf)
+👉 [[Relatório de Pesquisa de Mercado em TI](https://github.com/ghvale01/pesquisa-mercado-ti/blob/main/Relatorio%20de%20Pesquisa%20de%20Mercado.pdf)]
 
 ---
 
